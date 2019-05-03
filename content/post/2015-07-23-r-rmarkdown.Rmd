@@ -1,5 +1,5 @@
 ---
-  title: "Statistical Inference"
+title: "Statistical Inference"
 author: "Sophia He"
 date: 2019-05-01T21:13:14-05:00
 categories: ["R"]

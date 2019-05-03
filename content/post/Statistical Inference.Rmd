@@ -1,8 +1,9 @@
 ---
 title: "Statistical Inference"
 author: "Sophia He"
-date: "May 2, 2019"
-output: html_document
+date: 2019-05-01T21:13:14-05:00
+categories: ["R"]
+tags: ["R Markdown", "plot", "statistics"]
 ---
 
 ```{r setup, include=FALSE}

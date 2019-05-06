@@ -1,17 +1,10 @@
 ---
-date: "2014-04-09"
-title: About Hugo
+date: "2019-05-06"
+title: About Sophia He
 ---
 
-Hugo is a static site engine written in Go.
+- Self-motivated professional with a strong passion for automating data-focused solutions to complex business problems. 
+- Programmatically transforming messy data into usable forms. Background includes professional and project experience using statistical programming languages, data visualization tools, and software development best practices.
+- Three years of experience working with sensitive criminal justice and public-paid health care data. Strive to make a positive impact on other people.
 
-
-It makes use of a variety of open source projects including:
-
-* [Cobra](https://github.com/spf13/cobra)
-* [Viper](https://github.com/spf13/viper)
-* [J Walter Weatherman](https://github.com/spf13/jWalterWeatherman)
-* [Cast](https://github.com/spf13/cast)
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
-
+[GitHub](https://github.com/sophia-li-he).
